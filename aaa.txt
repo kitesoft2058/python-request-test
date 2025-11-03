@@ -1,0 +1,5 @@
+Hello.
+This is text file for python request modult test.
+
+안녕하세요.
+한글도 확인해 봅니다.
