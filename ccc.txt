@@ -1,0 +1,3 @@
+sam 20 AI seoul
+robin 25 Data Science incheon
+hong 23 web development busan
