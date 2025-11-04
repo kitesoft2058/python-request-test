@@ -3,18 +3,18 @@
         <name>sam</name>
         <age>20</age>
         <major>AI</major>
-        <address>seoul</major>
+        <address>seoul</address>
     </item>
     <item>
         <name>robin</name>
         <age>25</age>
         <major>Data Science</major>
-        <address>incheon</major>
+        <address>incheon</address>
     </item>
     <item>
         <name>hong</name>
         <age>23</age>
         <major>web development</major>
-        <address>busan</major>
+        <address>busan</address>
     </item>
 </students>
